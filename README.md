@@ -1,3 +1,3 @@
 # Python
 
-Diferentes proyectos realizados en Python
+Diferentes proyectos realizados en Python y SQL
